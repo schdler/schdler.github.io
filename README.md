@@ -4,6 +4,8 @@ Native and Web Based Application for creating reminders for schedules or tasks. 
 #### Website :
 https://www.schdler.github.io
 
+
+
 ## features :
 1. Create customized activity alerts on Date and Time basis.
 2. Automate schedule activities such as posting to site, mailing, and sending sms.
